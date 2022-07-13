@@ -1,4 +1,4 @@
-//이 문제는 정답지를 그대로 가져옴... 너무 for문에 취중해서 풀려고 해서 안되겠다 싶어 문제 풀이를 보게 됬슴둥 ㅠ
+//이 문제는 정답지를 그대로 가져옴... 너무 for문에 치중해서 풀려고 해서 안되겠다 싶어 문제 풀이를 보게 됬슴둥 ㅠ
 function averagePair(arr, num) {
   let start = 0;
   let end = arr.length - 1;
